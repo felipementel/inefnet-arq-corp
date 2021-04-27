@@ -1,1 +1,1 @@
-# inefnet-arq-corp
+# Repositório para projetos de arquitetura corporativa
